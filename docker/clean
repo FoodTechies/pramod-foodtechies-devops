@@ -1,4 +1,0 @@
-docker system prune -a -f && sudo apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
-
-
-rm -rf /var/cache/apt/archives/* /var/lib/apt/lists/*
